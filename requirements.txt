@@ -1,0 +1,14 @@
+# EasyPortScanner Advanced - Dependencies
+
+# Terminal colors (optional but recommended)
+colorama>=0.4.6
+
+# Note: Tutte le altre funzionalità usano solo librerie standard Python
+# - socket (networking)
+# - threading (multithreading)
+# - struct (packet creation)
+# - ssl (HTTPS)
+# - xml.etree.ElementTree (XML export)
+# - json (JSON export)
+# - csv (CSV export)
+# - ipaddress (CIDR parsing)
